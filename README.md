@@ -46,7 +46,7 @@ Ensure the following tools are installed on your machine:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/dsrathore1/kubernetes-diaries.git
+git clone https://github.com/dsrathore1/Kubernetes-Diaries-PostgreSQL.git
 cd kubernetes-diaries
 ````
 
